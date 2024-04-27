@@ -1,6 +1,6 @@
 # [Hugo Markdown Slides Theme](https://github.com/wowchemy/starter-hugo-markdown-slides)
 
-[![Screenshot](./preview.webp)](https://hugoblox.com/hugo-themes/)
+[![Screenshot](preview.webp)](https://hugoblox.com/hugo-themes/)
 
 The **Markdown Slides** starter template empowers you to **easily create, share, and present slide decks using the open, future-proof Markdown standard**. Supports math, syntax highlighting, diagrams, speaker notes, and much more!
 
